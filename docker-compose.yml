@@ -34,5 +34,4 @@ services:
       - ./logs/odoo16.log:/etc/odoo/odoo-server.log    # ✅ Log file
     restart: always
 
-volumes:
   
